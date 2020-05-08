@@ -38,11 +38,11 @@
     defaultEdgeColor: '#000',
     // {string}
     defaultNodeColor: '#fff',
-    // {string}
+	// {string}
     defaultLabelSize: 12,
     // {string} Indicates how to choose the edges color. Available values:
     //          "source", "target", "default"
-    edgeColor: 'source',
+    edgeColor: 'default',
     // {number} Defines the minimal edge's arrow display size.
     minArrowSize: 0,
     // {string}

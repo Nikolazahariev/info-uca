@@ -77,9 +77,6 @@
     <div class="label">TEST <br>Research Infographic</div>
   </div>
 </div>
-<!--<script>sigma.parsers.gexf('data/graph1.gexf', {
-  container: 'graph-container'
-});	</script> -->
 <script>
   // Add a method to the graph model that returns an
   // object with every neighbors of a node inside:
@@ -94,7 +91,8 @@
     return neighbors;
   });
 
-  sigma.parsers.gexf('data/graph1.gexf',
+  sigma.parsers.gexf(
+    'data/graph1.gexf', //tuk zarejdai grapha laino
     {
       container: 'graph-container'
     },
@@ -145,13 +143,13 @@
         s.graph.nodes().forEach(function(n) {
           n.color = n.originalColor;
         });
-
+//da ne si posmql da barnesh tuka pak
         s.graph.edges().forEach(function(e) {
           e.color = e.originalColor;
         });
 
         // Same as in the previous event:
-        s.refresh(); 
+        s.refresh();
       });
     }
   );
