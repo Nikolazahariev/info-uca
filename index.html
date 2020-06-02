@@ -48,15 +48,30 @@
 <!-- END SIGMA IMPORTS -->
 <script src="./plugins/sigma.parsers.gexf/gexf-parser.js"></script>
 <script src="./plugins/sigma.parsers.gexf/sigma.parsers.gexf.js"></script>
+<script src="../plugins/sigma.exporters.svg/sigma.exporters.svg.js"></script>
 
 <div id="container">
   <style>
+	  #canvas2 {
+		  bottom: 8;
+		  left: 8;
+		  position: fixed;
+		  border-width: 0;
+		  padding: 0; 
+		  background-color: transparent;
+		font-size: 10pt;
+		   font-family: "Helvetica Neue";
+		   font-weight: text;
+		  
+	  }
 	   #canvas1 {
       color: #000;
-      background: #dee5da;
-      position: absolute;
-		   font-family: sans-serif;
-		   font-weight: bold;
+	  width: 300px;
+		   font-size: 10pt;
+		   font-family: "Helvetica Neue";
+		   font-weight: text;
+		   line-height: 11pt;
+		   
     }
 	 body {
 		  background-color: #dee5da;
@@ -73,9 +88,19 @@
     }
   </style>
   <div id="graph-container"></div>
+	<div id="canvas2">
+    <div class="label"> 
+		*Note that the graph works only on computer devices. 
+		</div>
+		</div>
 	<div id="canvas1">
-    <div class="label">TEST <br>Research Infographic</div>
-  </div>
+    <div class="label"> 
+		<h4>What is Research? </h4>
+		
+		<p> I made this interactive network graph to visually represent the use of words in my research process. I used software that tracks every keystroke on my keyboard and extracted the data from it. Making it interactive, I was aiming to make the huge volume of data more digestible for the user. There are 100 words each one of them connected to node for frequency, how many times I have used a word, and usefulness, whether the word used(59%) in my research process or not(41%). Also, the useful words are coloured in black and the useless in red. The key features of the graph is that you can, for example, hover over the node for used words and visually see every used word in my research and the opposite. <br> <br>Scroll & drag for navigation  <br> Hover over node to isolate</p>
+		</div>
+	<!--	<img src="data/pic1.png" width="300"> -->
+	</div>
 </div>
 <script>
   // Add a method to the graph model that returns an
@@ -92,7 +117,7 @@
   });
 
   sigma.parsers.gexf(
-    'data/graph1.gexf', //tuk zarejdai grapha laino
+    'data/newfinal.gexf', //tuk zarejdai grapha laino
     {
       container: 'graph-container'
     },
@@ -121,14 +146,14 @@
           if (toKeep[n.id])
             n.color = n.originalColor;
           else
-            n.color = '#eee';
+            n.color = '#c7c7c7';
         });
 
         s.graph.edges().forEach(function(e) {
           if (toKeep[e.source] && toKeep[e.target])
             e.color = e.originalColor;
           else
-            e.color = '#eee';
+            e.color = '#c7c7c7';
         });
 
         // Since the data has been modified, we need to
@@ -152,7 +177,9 @@
         s.refresh();
       });
     }
+	  
   );
+
 </script>
 
 

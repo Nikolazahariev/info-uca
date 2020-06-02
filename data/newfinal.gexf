@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-06-02">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="frequency" title="frequency" type="integer"></attribute>
+      <attribute id="useful 1/0" title="useful 1/0" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="Frequency &lt;5">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-133.92323" y="-224.79803"></viz:position>
+      </node>
+      <node id="2" label="Frequency &lt;10">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="98.9349" y="233.80391"></viz:position>
+      </node>
+      <node id="3" label="Frequency &lt;20">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="66.406235" y="-22.643108"></viz:position>
+      </node>
+      <node id="4" label="Frequency &lt;30">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="273.87857" y="106.43248"></viz:position>
+      </node>
+      <node id="5" label="Frequency &lt;40">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-504.36957" y="-33.0063"></viz:position>
+      </node>
+      <node id="6" label="Frequency +50">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="232.78694" y="-154.59091"></viz:position>
+      </node>
+      <node id="7" label="wave">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="-68.784515" y="684.969"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="8" label="include">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="863.2777" y="249.59119"></viz:position>
+      </node>
+      <node id="9" label="caption">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="434.87616" y="562.6689"></viz:position>
+      </node>
+      <node id="10" label="keyboard">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-87.108986" y="-880.5735"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="11" label="IBM">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="32.72177" y="-174.41656"></viz:position>
+      </node>
+      <node id="12" label="mm">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-684.2499" y="-198.07318"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="13" label="Ludwig Mies">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="416.01495" y="785.52496"></viz:position>
+      </node>
+      <node id="14" label="plane">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="640.55176" y="260.0283"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="15" label="netflix">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="326.65097" y="-652.3865"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="16" label="folding">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-319.3657" y="-189.50102"></viz:position>
+      </node>
+      <node id="17" label="Grid">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="245.38646" y="864.0731"></viz:position>
+      </node>
+      <node id="18" label="apply">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="138.54102" y="-697.5567"></viz:position>
+      </node>
+      <node id="19" label="coronavirus">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-76.39623" y="307.70364"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="20" label="Typography">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-151.3936" y="-46.8237"></viz:position>
+      </node>
+      <node id="21" label="how">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-749.4263" y="496.94434"></viz:position>
+      </node>
+      <node id="22" label="Instagram">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="260.3721" y="-850.334"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="23" label="Javascript">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-22.342134" y="-361.08762"></viz:position>
+      </node>
+      <node id="24" label="steam">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-862.0696" y="-235.01602"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="25" label="Modern">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="436.1079" y="-510.21503"></viz:position>
+      </node>
+      <node id="26" label="International">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-877.5319" y="-60.162308"></viz:position>
+      </node>
+      <node id="27" label="esky">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="81.53402" y="412.6079"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="28" label="layout">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="106.678444" y="755.49805"></viz:position>
+      </node>
+      <node id="29" label="myuca">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="82.7388" y="-875.7869"></viz:position>
+      </node>
+      <node id="30" label="InDesign">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-553.18414" y="146.69339"></viz:position>
+      </node>
+      <node id="31" label="Plex">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="413.4114" y="-0.38987803"></viz:position>
+      </node>
+      <node id="32" label="amazon">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="262.64478" y="467.63605"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="33" label="source">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-562.59735" y="464.34286"></viz:position>
+      </node>
+      <node id="34" label="nba">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.1"></viz:size>
+        <viz:position x="134.23672" y="0.9771118"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="35" label="Sans">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-602.7964" y="-369.04715"></viz:position>
+      </node>
+      <node id="36" label="safe">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="557.4997" y="-665.7972"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="37" label="Emil Ruder">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="562.7197" y="686.3624"></viz:position>
+      </node>
+      <node id="38" label="flights">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="291.59265" y="-356.99713"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="39" label="workout">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="434.61206" y="-785.59393"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="40" label="Stigma">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-311.5027" y="831.37396"></viz:position>
+      </node>
+      <node id="41" label="Youtube">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-428.37082" y="572.8151"></viz:position>
+      </node>
+      <node id="42" label="pages">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="69.77125" y="-428.899"></viz:position>
+      </node>
+      <node id="43" label="transferwaise">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-334.1844" y="-560.5722"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="44" label="Armin Hofmann">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="-260.43405" y="324.8983"></viz:position>
+      </node>
+      <node id="45" label="quarantine">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="429.6526" y="363.5832"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="46" label="spotify">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-654.3861" y="316.89716"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="47" label="book">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-841.0324" y="319.6459"></viz:position>
+      </node>
+      <node id="48" label="doing">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="380.9925" y="-185.61705"></viz:position>
+      </node>
+      <node id="49" label="Swiss">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-894.5726" y="118.90827"></viz:position>
+      </node>
+      <node id="50" label="images">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="907.0816" y="12.845037"></viz:position>
+      </node>
+      <node id="51" label="ryanair">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="807.1349" y="-382.5884"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="52" label="Typeface">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="-194.54419" y="152.4339"></viz:position>
+      </node>
+      <node id="53" label="modular">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-135.73306" y="-518.5751"></viz:position>
+      </node>
+      <node id="54" label="borders">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="766.4859" y="114.723656"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="55" label="Travis Scott">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="583.2065" y="433.41754"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="56" label="working">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="693.4977" y="564.52924"></viz:position>
+      </node>
+      <node id="57" label="baseline">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-381.3949" y="160.90186"></viz:position>
+      </node>
+      <node id="58" label="tickets">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="137.54091" y="-293.53796"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="59" label="weight">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-325.94904" y="-9.303585"></viz:position>
+      </node>
+      <node id="60" label="minecraft">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="264.69446" y="282.9135"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="61" label="graphic">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="743.9177" y="-75.59643"></viz:position>
+      </node>
+      <node id="62" label="gmail">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-413.16064" y="-374.466"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="63" label="idea">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-241.6776" y="-375.80383"></viz:position>
+      </node>
+      <node id="64" label="Denzel">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="562.29395" y="-118.43701"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="65" label="folio">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-503.18878" y="-207.70012"></viz:position>
+      </node>
+      <node id="66" label="journal">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="280.8787" y="663.27826"></viz:position>
+      </node>
+      <node id="67" label="Lana Rhoades">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="780.0663" y="402.80508"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="68" label="mockup">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-154.01118" y="885.79944"></viz:position>
+      </node>
+      <node id="69" label="price">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-248.5811" y="659.6636"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="70" label="Behance">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-223.4455" y="-692.05316"></viz:position>
+      </node>
+      <node id="71" label="graph">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="-463.7057" y="750.77167"></viz:position>
+      </node>
+      <node id="72" label="eggs">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-266.54633" y="-861.5293"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="73" label="inktaps">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="99.271545" y="584.6327"></viz:position>
+      </node>
+      <node id="74" label="nike">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="872.00946" y="-200.79759"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="75" label="price">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-572.1405" y="-696.67535"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="76" label="tools">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-275.80307" y="488.8926"></viz:position>
+      </node>
+      <node id="77" label="Adobe fonts">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="595.1671" y="70.49668"></viz:position>
+      </node>
+      <node id="78" label="album">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-508.63428" y="-538.9661"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="79" label="libraries">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="25.8529" y="903.1216"></viz:position>
+      </node>
+      <node id="80" label="printing">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="608.38043" y="-434.29086"></viz:position>
+      </node>
+      <node id="81" label="sigma">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-701.7214" y="-547.1925"></viz:position>
+      </node>
+      <node id="82" label="near">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="675.9528" y="-259.59015"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="83" label="Interstate">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-689.67584" y="-21.77022"></viz:position>
+      </node>
+      <node id="84" label="ulm">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-414.37915" y="-761.8998"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="85" label="pizza">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-445.9539" y="332.12332"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="86" label="myuca">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-45.97379" y="-693.2174"></viz:position>
+      </node>
+      <node id="87" label="netowork">
+        <attvalues>
+          <attvalue for="frequency" value="5"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-94.898254" y="500.68994"></viz:position>
+      </node>
+      <node id="88" label="Akzidenz-Grotesk">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="221.12035" y="-508.93787"></viz:position>
+      </node>
+      <node id="89" label="time">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="452.93225" y="187.24385"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="90" label="communication">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-728.14954" y="153.52896"></viz:position>
+      </node>
+      <node id="91" label="paperpile">
+        <attvalues>
+          <attvalue for="frequency" value="3"></attvalue>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.8"></viz:size>
+        <viz:position x="52.19801" y="-522.2596"></viz:position>
+      </node>
+      <node id="92" label="calories">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-788.52673" y="-395.67294"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+      <node id="93" label="Useful">
+        <attvalues>
+          <attvalue for="useful 1/0" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="46.399994"></viz:size>
+        <viz:position x="-621.1217" y="642.4828"></viz:position>
+      </node>
+      <node id="94" label="Useless">
+        <attvalues>
+          <attvalue for="useful 1/0" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="48.8"></viz:size>
+        <viz:position x="707.7826" y="-555.8925"></viz:position>
+        <viz:color r="205" g="23" b="25"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1125" source="1" target="10"></edge>
+      <edge id="1126" source="1" target="18"></edge>
+      <edge id="1127" source="1" target="29"></edge>
+      <edge id="1128" source="1" target="30"></edge>
+      <edge id="1129" source="1" target="32"></edge>
+      <edge id="1130" source="1" target="33"></edge>
+      <edge id="1131" source="1" target="36"></edge>
+      <edge id="1132" source="1" target="57"></edge>
+      <edge id="1133" source="1" target="60"></edge>
+      <edge id="1134" source="1" target="65"></edge>
+      <edge id="1135" source="1" target="69"></edge>
+      <edge id="1136" source="1" target="70"></edge>
+      <edge id="1137" source="2" target="8"></edge>
+      <edge id="1138" source="2" target="9"></edge>
+      <edge id="1139" source="2" target="16"></edge>
+      <edge id="1140" source="2" target="34"></edge>
+      <edge id="1141" source="2" target="37"></edge>
+      <edge id="1142" source="2" target="51"></edge>
+      <edge id="1143" source="2" target="55"></edge>
+      <edge id="1144" source="2" target="59"></edge>
+      <edge id="1145" source="2" target="64"></edge>
+      <edge id="1146" source="2" target="66"></edge>
+      <edge id="1147" source="2" target="67"></edge>
+      <edge id="1148" source="3" target="11"></edge>
+      <edge id="1149" source="3" target="12"></edge>
+      <edge id="1150" source="3" target="28"></edge>
+      <edge id="1151" source="3" target="31"></edge>
+      <edge id="1152" source="3" target="35"></edge>
+      <edge id="1153" source="3" target="39"></edge>
+      <edge id="1154" source="3" target="40"></edge>
+      <edge id="1155" source="3" target="42"></edge>
+      <edge id="1156" source="3" target="43"></edge>
+      <edge id="1157" source="3" target="48"></edge>
+      <edge id="1158" source="3" target="53"></edge>
+      <edge id="1159" source="3" target="56"></edge>
+      <edge id="1160" source="3" target="62"></edge>
+      <edge id="1161" source="3" target="68"></edge>
+      <edge id="1162" source="4" target="7"></edge>
+      <edge id="1163" source="4" target="13"></edge>
+      <edge id="1164" source="4" target="15"></edge>
+      <edge id="1165" source="4" target="17"></edge>
+      <edge id="1166" source="4" target="25"></edge>
+      <edge id="1167" source="4" target="27"></edge>
+      <edge id="1168" source="4" target="44"></edge>
+      <edge id="1169" source="4" target="50"></edge>
+      <edge id="1170" source="4" target="52"></edge>
+      <edge id="1171" source="4" target="61"></edge>
+      <edge id="1172" source="5" target="20"></edge>
+      <edge id="1173" source="5" target="21"></edge>
+      <edge id="1174" source="5" target="24"></edge>
+      <edge id="1175" source="5" target="26"></edge>
+      <edge id="1176" source="5" target="38"></edge>
+      <edge id="1177" source="5" target="41"></edge>
+      <edge id="1178" source="5" target="46"></edge>
+      <edge id="1179" source="5" target="47"></edge>
+      <edge id="1180" source="5" target="49"></edge>
+      <edge id="1181" source="5" target="63"></edge>
+      <edge id="1182" source="6" target="14"></edge>
+      <edge id="1183" source="6" target="19"></edge>
+      <edge id="1184" source="6" target="22"></edge>
+      <edge id="1185" source="6" target="23"></edge>
+      <edge id="1186" source="6" target="45"></edge>
+      <edge id="1187" source="6" target="54"></edge>
+      <edge id="1188" source="6" target="58"></edge>
+      <edge id="1190" source="3" target="71"></edge>
+      <edge id="1191" source="1" target="72"></edge>
+      <edge id="1192" source="2" target="73"></edge>
+      <edge id="1193" source="3" target="74"></edge>
+      <edge id="1194" source="1" target="75"></edge>
+      <edge id="1195" source="2" target="76"></edge>
+      <edge id="1196" source="4" target="77"></edge>
+      <edge id="1197" source="1" target="78"></edge>
+      <edge id="1198" source="2" target="79"></edge>
+      <edge id="1199" source="4" target="80"></edge>
+      <edge id="1200" source="5" target="81"></edge>
+      <edge id="1201" source="1" target="82"></edge>
+      <edge id="1202" source="2" target="83"></edge>
+      <edge id="1203" source="1" target="84"></edge>
+      <edge id="1204" source="1" target="85"></edge>
+      <edge id="1205" source="5" target="86"></edge>
+      <edge id="1206" source="5" target="87"></edge>
+      <edge id="1207" source="3" target="88"></edge>
+      <edge id="1208" source="1" target="89"></edge>
+      <edge id="1209" source="2" target="90"></edge>
+      <edge id="1210" source="3" target="91"></edge>
+      <edge id="1211" source="1" target="92"></edge>
+      <edge id="1212" source="94" target="7"></edge>
+      <edge id="1213" source="94" target="10"></edge>
+      <edge id="1214" source="94" target="12"></edge>
+      <edge id="1215" source="94" target="14"></edge>
+      <edge id="1216" source="94" target="15"></edge>
+      <edge id="1217" source="94" target="19"></edge>
+      <edge id="1218" source="94" target="22"></edge>
+      <edge id="1219" source="94" target="24"></edge>
+      <edge id="1220" source="94" target="27"></edge>
+      <edge id="1221" source="94" target="32"></edge>
+      <edge id="1222" source="94" target="34"></edge>
+      <edge id="1223" source="94" target="36"></edge>
+      <edge id="1224" source="94" target="38"></edge>
+      <edge id="1225" source="94" target="39"></edge>
+      <edge id="1226" source="94" target="43"></edge>
+      <edge id="1227" source="94" target="45"></edge>
+      <edge id="1228" source="94" target="46"></edge>
+      <edge id="1229" source="94" target="51"></edge>
+      <edge id="1230" source="94" target="54"></edge>
+      <edge id="1231" source="94" target="55"></edge>
+      <edge id="1232" source="94" target="58"></edge>
+      <edge id="1233" source="94" target="60"></edge>
+      <edge id="1234" source="94" target="62"></edge>
+      <edge id="1235" source="94" target="64"></edge>
+      <edge id="1236" source="94" target="67"></edge>
+      <edge id="1237" source="94" target="69"></edge>
+      <edge id="1238" source="94" target="72"></edge>
+      <edge id="1239" source="94" target="74"></edge>
+      <edge id="1240" source="94" target="75"></edge>
+      <edge id="1241" source="94" target="78"></edge>
+      <edge id="1242" source="94" target="82"></edge>
+      <edge id="1243" source="94" target="84"></edge>
+      <edge id="1244" source="94" target="85"></edge>
+      <edge id="1245" source="94" target="89"></edge>
+      <edge id="1246" source="94" target="92"></edge>
+      <edge id="1247" source="93" target="8"></edge>
+      <edge id="1248" source="93" target="9"></edge>
+      <edge id="1249" source="93" target="11"></edge>
+      <edge id="1250" source="93" target="13"></edge>
+      <edge id="1251" source="93" target="16"></edge>
+      <edge id="1252" source="93" target="17"></edge>
+      <edge id="1253" source="93" target="18"></edge>
+      <edge id="1254" source="93" target="20"></edge>
+      <edge id="1255" source="93" target="21"></edge>
+      <edge id="1256" source="93" target="23"></edge>
+      <edge id="1257" source="93" target="25"></edge>
+      <edge id="1258" source="93" target="26"></edge>
+      <edge id="1259" source="93" target="28"></edge>
+      <edge id="1260" source="93" target="29"></edge>
+      <edge id="1261" source="93" target="30"></edge>
+      <edge id="1262" source="93" target="31"></edge>
+      <edge id="1263" source="93" target="33"></edge>
+      <edge id="1264" source="93" target="35"></edge>
+      <edge id="1265" source="93" target="37"></edge>
+      <edge id="1266" source="93" target="40"></edge>
+      <edge id="1267" source="93" target="41"></edge>
+      <edge id="1268" source="93" target="42"></edge>
+      <edge id="1269" source="93" target="44"></edge>
+      <edge id="1270" source="93" target="47"></edge>
+      <edge id="1271" source="93" target="48"></edge>
+      <edge id="1272" source="93" target="49"></edge>
+      <edge id="1273" source="93" target="50"></edge>
+      <edge id="1274" source="93" target="52"></edge>
+      <edge id="1275" source="93" target="53"></edge>
+      <edge id="1276" source="93" target="56"></edge>
+      <edge id="1277" source="93" target="57"></edge>
+      <edge id="1278" source="93" target="59"></edge>
+      <edge id="1279" source="93" target="61"></edge>
+      <edge id="1280" source="93" target="63"></edge>
+      <edge id="1281" source="93" target="65"></edge>
+      <edge id="1282" source="93" target="66"></edge>
+      <edge id="1283" source="93" target="68"></edge>
+      <edge id="1284" source="93" target="70"></edge>
+      <edge id="1285" source="93" target="71"></edge>
+      <edge id="1286" source="93" target="73"></edge>
+      <edge id="1287" source="93" target="76"></edge>
+      <edge id="1288" source="93" target="77"></edge>
+      <edge id="1289" source="93" target="79"></edge>
+      <edge id="1290" source="93" target="80"></edge>
+      <edge id="1291" source="93" target="81"></edge>
+      <edge id="1292" source="93" target="83"></edge>
+      <edge id="1293" source="93" target="86"></edge>
+      <edge id="1294" source="93" target="87"></edge>
+      <edge id="1295" source="93" target="88"></edge>
+      <edge id="1296" source="93" target="90"></edge>
+      <edge id="1297" source="93" target="91"></edge>
+    </edges>
+  </graph>
+</gexf>

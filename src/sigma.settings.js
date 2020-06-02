@@ -37,12 +37,12 @@
     // {string}
     defaultEdgeColor: '#000',
     // {string}
-    defaultNodeColor: '#fff',
+    defaultNodeColor: '#000',
 	// {string}
     defaultLabelSize: 12,
     // {string} Indicates how to choose the edges color. Available values:
     //          "source", "target", "default"
-    edgeColor: 'default',
+    edgeColor: 'source',
     // {number} Defines the minimal edge's arrow display size.
     minArrowSize: 0,
     // {string}
@@ -56,9 +56,9 @@
     //          "fixed", "proportional"
     labelSize: 'fixed',
     // {string} The ratio between the font size of the label and the node size.
-    labelSizeRatio: 1,
+    labelSizeRatio: 2,
     // {number} The minimum size a node must have to see its label displayed.
-    labelThreshold: 8,
+    labelThreshold: 10,
     // {number} The oversampling factor used in WebGL renderer.
     webglOversamplingRatio: 2,
     // {number} The size of the border of hovered nodes.
@@ -71,7 +71,7 @@
     // {boolean} If true, then only one node can be hovered at a time.
     singleHover: false,
     // {string} Example: 'bold'
-    hoverFontStyle: '',
+    hoverFontStyle: 'bold',
     // {string} Indicates how to choose the hovered nodes shadow color.
     //          Available values: "node", "default"
     labelHoverShadow: 'default',
@@ -142,7 +142,7 @@
     minEdgeSize: 0.5,
     maxEdgeSize: 1,
     minNodeSize: 1,
-    maxNodeSize: 8,
+    maxNodeSize: 25,
 
 
 
